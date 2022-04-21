@@ -9,7 +9,7 @@ height: 100%;
 {
 background-color:#bcb4b4;
 margin-top: 20px;
-height: 400px;
+height: 510px;
 width: 80%;
 display: block;
 padding-left: 80px;
@@ -30,17 +30,16 @@ iframe
 {
     margin: 20px;
     width:500px;
-    height: 250px;
+    height: 200px;
 }
 .block
 {
-  float: left;
+ text-align: center;
    margin-left: 20px;
-   padding-top: 50px;
+   padding-top: 15px;
 
 }
-button
-{
+button{
     padding: 20px;
     color: white;
     background-color: black;
