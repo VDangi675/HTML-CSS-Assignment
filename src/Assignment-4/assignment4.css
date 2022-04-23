@@ -5,3 +5,110 @@
 width: 100%;
 height: 100%;
 }
+header{
+    background-color:aqua;
+    width: auto;
+    height: 50px;
+    padding: 0px 30px;
+}
+ h1{
+    float:left;
+    text-indent: -9999px;
+    background: url('./images/dog-icon.jpg') no-repeat;
+    background-size: contain;
+    height: 35px;
+    width: 35px;
+    margin-top: 6px;
+}
+nav {
+    float:right;
+}
+ 
+nav li{
+display: inline-block;
+margin:5px;
+}
+ 
+   
+
+.content_1{
+    background:url('./images/picture5.jpg') no-repeat;
+    width:100%;
+    height: 300px;
+    padding-top: 5px;
+    background-size:100%;
+
+}
+h2{
+    text-align: center;
+}
+
+img
+{
+    border-radius: 50%;
+    border:2px solid blue;
+    display:block;
+    margin-bottom: 25px;
+    margin: auto;
+    width: 150px;
+    height: 150px;
+}
+button{
+    background-color: white;
+    margin: auto;
+    shape-outside: margin-box;
+    display: block;
+    margin-top: 10px;
+   text-align: center;
+   font-size: larger;
+
+   
+}
+
+.three-col{
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    vertical-align: top;
+    margin: 0px 10px;
+  }
+
+  .three-col img{
+    border-radius: 50%;
+    border: 3px solid #3F8DA7;
+    height: 200px;
+    width: 200px;
+    margin: 25px 0px;
+    margin-left: 120px;
+  }
+  .three-col p {
+    margin-bottom: 40px;
+  }
+  .three-col h3 {
+   text-align: center;
+   font-size: x-large;
+  }
+  footer{
+      text-align: center;
+      height: 250px;
+      background-color: aquamarine;
+
+  }
+  footer img{
+    border-radius: 50%;
+    border: 3px solid #3F8DA7;
+    height: 40px;
+    width: 40px;
+ margin-left: 30px;
+    display: inline;
+  }
+  footer h4{
+      font-size: x-large;
+  }
+
+  footer button {
+      text-align: center;
+      display: block;
+      border: none;
+      background-color: aquamarine;
+  }
